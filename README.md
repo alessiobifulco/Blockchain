@@ -4,11 +4,11 @@ Progetto per il corso di Crittografia focalizzato sull'analisi dei meccanismi e 
 
 ---
 
-## 🎯 Obiettivo del Progetto
+## Obiettivo del Progetto
 
 L'obiettivo di questo progetto è analizzare le fondamenta crittografiche che rendono possibile il funzionamento di una blockchain. Lo studio si concentra sui singoli componenti crittografici, il loro ruolo specifico e come la loro interazione crei un sistema distribuito sicuro e affidabile.
 
-## 🧠 Concetti Crittografici Analizzati
+## Concetti Crittografici Analizzati
 
 Il progetto esplora i seguenti pilastri della crittografia applicata alla blockchain:
 
@@ -24,11 +24,11 @@ Il progetto esplora i seguenti pilastri della crittografia applicata alla blockc
 * **Alberi di Merkle (Merkle Trees):**
     * Viene esaminata la struttura dati ad albero basata su hash che permette di riassumere tutte le transazioni di un blocco in un'unica "impronta" (Merkle Root). Questa tecnica consente una verifica efficiente e sicura dell'inclusione di una transazione in un blocco.
 
-## 🛠️ Tecnologie di Riferimento
+## Tecnologie di Riferimento
 
 * **Algoritmi di Hash:** SHA-256 (Bitcoin), Keccak-256 (Ethereum)
 * **Algoritmi di Firma:** ECDSA (Elliptic Curve Digital Signature Algorithm)
 * **Piattaforme Blockchain Analizzate:** Bitcoin, Ethereum
 
-## 👤 Contatti
+## Contatti
 * Alessio Bifulco: `alessio.bifulco@studio.unibo.it`
